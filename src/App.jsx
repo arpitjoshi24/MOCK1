@@ -1,6 +1,6 @@
 
 import './App.css'
-import Mock from './mock'
+import Mock from './Mock'
 
 function App() {
   
